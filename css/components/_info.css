@@ -1,0 +1,21 @@
+.infoComp {
+  margin: 100px 0;
+}
+
+.info {
+}
+
+.info__content {
+  width: 400px;
+  height: auto;
+  padding: 70px 40px;
+  text-align: center;
+}
+
+.info__content h2 {
+  font-family: var(--second-font);
+}
+
+.info__content p {
+  color: var(--second-text-color);
+}
